@@ -1,0 +1,57 @@
+{
+  "createStudent": {
+    "id": 559,
+    "name": "GokulRaj",
+    "age": 25,
+    "email": "gokul@gmail.com"
+  },
+  "updateStudent": {
+    "id": 559,
+    "name": "GokulRaj",
+    "age": 25,
+    "email": "gokulraj@gmail.com"
+  },
+  "createStudent2": {
+    "id": 559,
+    "name": "GokulRaj",
+    "age": 25
+  },
+  "createStudent3": {
+    "id": 559,
+    "name": "GokulRaj",
+    "email": "gokul@gmail.com"
+  },
+  "createStudent4": {
+    "id": 559,
+    "age": 25,
+    "email": "gokul@gmail.com"
+  },
+  "invalidId": {
+    "id": 559,
+    "name": "GokulRaj",
+    "age": 25,
+    "email": "gokul@gmail.com"
+  },
+  "createUser": {
+    "name": "GokulRaj",
+    "address": "Arani",
+    "marks": 99
+  },
+  "updateUser": {
+    "name": "GokulRaj",
+    "address": "Arani",
+    "marks": 90
+  },
+  "multipleUsers": [
+    {
+      "name": "Gokulraj",
+      "address": "Velleri",
+      "marks": 99
+    },
+    {
+      "name": "GokulrajSL",
+      "address": "Velleri",
+      "marks": 99
+    }
+  ]
+}
